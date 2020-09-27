@@ -1,0 +1,5 @@
+.idea
+vendor
+.phpunit.result.cache
+tests/credentials.json
+/test.php
