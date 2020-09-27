@@ -1,5 +1,6 @@
 {
     "name": "antriver/energenie-mihome-api",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Antriver\\EnergenieMihomeApi\\": "src/"
